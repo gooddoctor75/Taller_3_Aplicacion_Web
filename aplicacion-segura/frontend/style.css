@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+.hidden { display: none; }
+.form-container { margin-bottom: 20px; }
+.product-item { border: 1px solid #ccc; padding: 10px; margin: 5px 0; }
+.actions button { margin-right: 5px; }
