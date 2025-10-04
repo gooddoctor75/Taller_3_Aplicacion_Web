@@ -1,5 +1,5 @@
-# Taller_3_Software_seguro
-Presentación del taller 3, Desarrollo de Software Seguro, elaborado por **Jonathan Martelo**
+# Taller_3_Aplicacion_Web
+Desarrollo del taller 3 de Software Seguro, Creado por **Brayan sierra**
 
 ---
 
@@ -8,11 +8,11 @@ Presentación del taller 3, Desarrollo de Software Seguro, elaborado por **Jonat
 Para poder desplegar este aplicativo solo tiene que ejecutar los siguientes comandos:
 
 ```bash
-git remote add taller https://github.com/JMarteloC22/Taller_3_Software_seguro/
+git remote add taller (https://github.com/gooddoctor75/Taller_3_Aplicacion_Web)
 git clone taller
 ```
 
-Una vez ejecutados estos comandos se mostrarán los documentos básicos de funcionamiento del aplicativo.
+Una vez se esten ejecutados estos comandos se mostrarán los documentos básicos de funcionamiento del aplicativo.
 
 ## Ejecución del frontend
 
